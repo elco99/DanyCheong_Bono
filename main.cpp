@@ -7,5 +7,6 @@ int main(int argc, char const *argv[]){
     cout << "Madara Uchiha" << endl;
     cout << "Soy un trolazo"<<endl;
     cout << "los ponies son pa' gays"<<endl;
+    cout << "vos sos gay"<<endl;
 	return 0;
 }
